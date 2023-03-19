@@ -1,6 +1,6 @@
 # Calculator
-Calculator by TkInter
-Then the file is compiled to .exe using pyinstaller
+Calculator by TkInter.
+Then the file is compiled to .exe using pyinstaller.
 
 
 
